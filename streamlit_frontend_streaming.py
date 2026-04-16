@@ -41,6 +41,3 @@ if user_input:
         'role': 'assistant',
         'content': ai_message}
     )
-
-    
-
